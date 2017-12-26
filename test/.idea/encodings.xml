@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/meituan/BusinessInfor/ipproxy.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meituan/BusinessInfor/tmp.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meituan/Data/business/business_37419702_infor.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/meituan/Data/business/business_37785274_infor.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/meituan/log/NewTxt.py.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/meituan/log/bloomfilterOnRedis.py.log" charset="GBK" />
+  </component>
+</project>
